@@ -9,7 +9,7 @@ public class Q2_Sort_An_Array_012{
         System.out.println(Arrays.toString(arr));
     }
 
-    //Optimal
+    //Optimal -- Dutch National Flag Algo (DNF)
     public static void sortColors(int[] nums) {
         int low = 0;
         int mid = 0;

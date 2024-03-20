@@ -1,4 +1,3 @@
-package Problems_On_Arrays.Medium;
 
 import java.util.HashMap;
 import java.util.Map;

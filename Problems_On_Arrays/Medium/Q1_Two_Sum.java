@@ -1,4 +1,4 @@
-package Problems_On_Arrays.Medium;
+
 
 import java.util.Arrays;
 import java.util.HashMap;
